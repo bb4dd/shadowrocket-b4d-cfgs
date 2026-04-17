@@ -1,1 +1,3 @@
-
+DOMAIN-SUFFIX,oaiusercontent.com,PROXY
+DOMAIN-SUFFIX,revenuecat.com,PROXY
+DOMAIN-SUFFIX,sentry.com,PROXY
